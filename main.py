@@ -1,3 +1,3 @@
-print ("Hello h4r01d :D")
+print ("h4r01d :D")
 
 
