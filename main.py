@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
-print ("Hello World :D")
->>>>>>> Stashed changes
+print ("Hello h4r01d :D")
+
 
